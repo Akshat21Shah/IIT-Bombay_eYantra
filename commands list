@@ -1,0 +1,5 @@
+create v env - virtualenv(nameofenv)
+actiavte v env - soruce venv/bin/activate
+create django project - django-admin startproject project_name
+create django app - python3 manage.py startapp app_name
+create super user (admin) - python3 manage.py createsuperuser
